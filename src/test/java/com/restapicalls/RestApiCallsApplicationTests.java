@@ -1,4 +1,4 @@
-package com.restapicalls.RestApiCalls;
+package com.restapicalls;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
